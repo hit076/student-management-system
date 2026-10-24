@@ -1,0 +1,10 @@
+*   7d31fca (HEAD -> main, origin/main) Merge branch 'feature-contact'
+|\  
+| * 120467f (origin/feature-contact, feature-contact) Add contact page
+* |   6191a52 Merge branch 'feature-student'
+|\ \  
+| * | 10e98a7 (origin/feature-student, feature-student) Add student details page
+| |/  
+* / f51646e (origin/feature-home, feature-home) Add student management home page
+|/  
+* 2b90903 Initial commit: create student management project
